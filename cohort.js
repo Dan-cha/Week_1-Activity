@@ -1,140 +1,140 @@
 const students = [
     {
         name: 'Cody Murphy',
-        location: 'San Francisco',
+        location: 'San Francisco, CA',
         isInTech: false,
         os: 'mac',
         keywords: ['wants to learn', 'travel', 'dogs', 'hike', 'work out'],
         linkedIn: ''
     }, {
         name: 'Noah Westberry',
-        location: 'Oakley',
+        location: 'Oakley, CA',
         isInTech: false,
         os: 'windows',
         keywords: ['worked helpdesk for 3 years', 'further education', 'better job options', 'reading (sci-fi)', 'video games', 'Baseball (Giants)'],
         linkedIn: 'https://www.linkedin.com/in/noahwestberry/'
     }, {
         name: 'Jose San Mateo',
-        location: 'Walnut Creek/Concord',
+        location: 'Walnut Creek/Concord, CA',
         isInTech: false,
         os: 'windows',
         keywords: ['new & exciting career', 'twitch - fighting games'],
         linkedIn: 'https://www.linkedin.com/in/jsanmateo/'
     }, {
         name: 'Dennis Mateo',
-        location: 'Vacaville',
+        location: 'Vacaville, CA',
         isInTech: false,
         os: 'mac',
         keywords: ['career change', 'running', 'traveling'],
         linkedIn: 'https://www.linkedin.com/in/dennis-mateo-797a36240'
     }, {
         name: 'Jake Porter',
-        location: 'Oklahoma City',
+        location: 'Oklahoma City, OK',
         isInTech: true,
         os: 'mac',
         keywords: ['development knowledge', 'become more competitive in job market', 'travel', 'unique restaurants'],
         linkedIn: 'https://www.linkedin.com/in/jakemporter/'
     }, {
         name: 'Hanna Marcus',
-        location: 'Oakland',
+        location: 'Oakland, CA',
         isInTech: false,
         os: 'mac',
         keywords: ['expand opportunities at current company', 'pivot into tech', 'coding skills', 'running', 'hiking', 'surfing', 'scuba', 'most things outdoors'],
         linkedIn: 'https://www.linkedin.com/in/hanna-marcus/'
     }, {
         name: 'Anh Nguyen (Andy)',
-        location: 'Westminster',
+        location: 'Westminster, CA',
         isInTech: false,
         os: 'windows',
         keywords: ['learn front end', 'supplement existing back end knowledge', 'fictional author', 'aspires to be published'],
         linkedIn: ''
     }, {
         name: 'Jenny Deng',
-        location: 'San Francisco',
+        location: 'San Francisco, CA',
         isInTech: false,
         os: 'mac',
         keywords: ['career change', 'travel', 'experiencing new places'],
         linkedIn: 'https://www.linkedin.com/in/jenny-deng-a3676823b'
     }, {
         name: 'Makennah Titus (Kennah)',
-        location: 'Santa Maria',
+        location: 'Santa Maria, CA',
         isInTech: false,
         os: 'windows',
         keywords: ['new career', 'video games'],
         linkedIn: 'https://www.linkedin.com/in/makennah-titus-875155241'
     }, {
         name: 'Afshin Aslani (John)',
-        location: 'Saratoga',
+        location: 'Saratoga, CA',
         isInTech: true,
         os: 'windows',
         keywords: ['move into technical department in programming', 'yoga', 'meditation', 'skiing', 'hiking'],
         linkedIn: 'https://www.linkedin.com/in/afshinaslani/'
     }, {
         name: 'Parham Rahmani Nikoo',
-        location: 'Walnut Creek',
+        location: 'Walnut Creek, CA',
         isInTech: true,
         os: 'windows',
         keywords: ['seeks dev role at tech company', 'own company in the future', 'traveling', 'watching sports', 'video games'],
         linkedIn: 'https://www.linkedin.com/in/parham-rahmani-nikoo-866872142/'
     }, {
         name: 'Sherri Knight',
-        location: 'San Luis Obispo',
+        location: 'San Luis Obispo, CA',
         isInTech: true,
         os: 'mac',
         keywords: ['transitioning from QA Engineer to API Developer', 'acquire foundational skills for new role', 'plants', 'gardening', 'hanging out with son & wife'],
         linkedIn: 'https://www.linkedin.com/in/sherri-knight-95bb898/'
     }, {
         name: 'Shawn Chang',
-        location: 'San Francisco',
+        location: 'San Francisco, CA',
         isInTech: false,
         os: 'mac',
         keywords: ['new career', 'fishing'],
         linkedIn: 'https://www.linkedin.com/in/shawn-s-chang'
     }, {
         name: 'Maryam Muska',
-        location: 'Sacramento',
+        location: 'Sacramento, CA',
         isInTech: false,
         os: 'mac',
         keywords: ['career change', 'hiking', 'traveling', 'foodie', 'nature'],
         linkedIn: 'https://www.linkedin.com/in/maryam-muska-50aa45158/'
     }, {
         name: 'Phinjock Sonam Sherpa (PJ)',
-        location: 'Sonoma',
+        location: 'Sonoma, CA',
         isInTech: false,
         os: 'mac',
         keywords: ['career change', 'swimming', 'hiking'],
         linkedIn: 'https://www.linkedin.com/in/phinjock-sherpa-08723677/'
     }, {
         name: 'Scott Wattenbarger',
-        location: 'Bakersfield',
+        location: 'Bakersfield, CA',
         isInTech: false,
         os: 'mac',
         keywords: ['newborn daughter', 'seeks new career', 'soccer', 'baseball', 'travel', 'favorite destination is Grand Cayman'],
         linkedIn: 'https://www.linkedin.com/in/scott-wattenbarger-057652123/'
     }, {
         name: 'Rachael Bailey',
-        location: 'Sacramento',
+        location: 'Sacramento, CA',
         isInTech: false,
         os: 'windows',
         keywords: ['learn code', 'achieve personal & professional goals', 'slackline', 'time with family and friends'],
         linkedIn: 'https://www.linkedin.com/in/rachael-bailey-27b91722b'
     }, {
         name: 'Kristina Litunovskaia',
-        location: 'Greenbrae',
+        location: 'Greenbrae, CA',
         isInTech: false,
         os: 'windows',
         keywords: ['career change', 'learn coding', 'art', 'miniature painting', 'video games'],
         linkedIn: 'https://www.linkedin.com/in/kristina-litunovskaia-6a390a240/'
     }, {
         name: 'Xiaomeng Zhang (Rebecca)',
-        location: 'San Francisco',
+        location: 'San Francisco, CA',
         isInTech: true,
         os: 'mac',
         keywords: ['attorney coder', 'hiking', 'surfing', 'dancing', 'reading', 'binging shows', 'food photography'],
         linkedIn: 'https://www.linkedin.com/in/rebecca-xm-zhang/'
     }, {
         name: 'Samantha Juarez-Diaz (Sam)',
-        location: 'Redwood City',
+        location: 'Redwood City, CA',
         isInTech: false,
         os: 'windows',
         keywords: ['better future', 'remote work', 'live independently', 'hiking', 'dancing', 'swimming', 'concerts', 'time with friends & cat'],
